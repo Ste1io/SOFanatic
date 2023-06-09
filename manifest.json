@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "SOFanatic",
 	"version": "1.0.0",
-	"description": "Visit StackOverflow every day for 100 days to earn the \"Fanatic\" badge.",
+	"description": "Automates visiting StackOverflow every day for numerous consecutive days to earn the \"Enthusiast\" (30 days) and \"Fanatic\" (100 days) badges.",
 	"author": "Stelio Kontos",
 	"permissions": [ "tabs", "alarms", "storage" ],
 	"background": {
