@@ -2,7 +2,7 @@
 
 ## About
 
-A very minimal but effective Chrome Extension I threw together to automate the daily task of visiting StackOverflow each day. This allows one to earn the [Enthusiast (30 consecutive days)](https://meta.stackexchange.com/help/badges/39/enthusiast) and [Fanatic (100 consecutive days)](https://meta.stackexchange.com/help/badges/53/fanatic) badges without actually doing anything.
+A very minimal but effective Chrome Extension I threw together to automate the daily task of visiting StackOverflow each day. This allows one to earn the [Enthusiast (30 consecutive days)](https://stackoverflow.com/help/badges/71/enthusiast) and [Fanatic (100 consecutive days)](https://stackoverflow.com/help/badges/83/fanatic) badges without actually doing anything.
 
 ## Usage
 
