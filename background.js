@@ -2,10 +2,10 @@
 // https://meta.stackexchange.com/help/badges/53/fanatic
 
 const url = 'https://stackoverflow.com/users/9412456/stelio-kontos';
-const hr = 23, min = 59;
+const hr = 23, min = 0;
 // const hr = 0, min = 1; // for testing
 
-const timeoutPeriod = (((hr * 60 * 60) + (min * 60) + 0) * 1000) - 10; // offset by -1/100th sec to ensure the alarm fires inside the correct 1-minute interval, given the api's 1-minute periodicity
+const timeoutPeriod = ((hr * 60 * 60) * 1000) - 10; // offset by -1/100th sec to ensure the alarm fires inside the correct 1-minute interval, given the api's 1-minute periodicity
 const closeTabDelay = 2000; // leave the site open briefly, just to cut down on the spookiness factor
 
 chrome.runtime.onInstalled.addListener(() => {
